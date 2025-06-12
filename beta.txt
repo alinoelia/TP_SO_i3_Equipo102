@@ -1,0 +1,39 @@
+Alizon Gamboa - 12:56
+
+Configuraci¢n IP de Windows
+
+
+Adaptador desconocido Conexi¢n de  rea local:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::f7f4:7d4e:3cdc:11ca%14
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 10:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:554:b93:c9a4:6bee:62ba:5e86
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:554:b93:cc00:18bd:b324:8e01
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:554:b93:58aa:3f44:a227:5577
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::6362:acc7:4ac5:8dd6%18
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.7
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::229a:7dff:fea6:7f67%18
+                                       192.168.0.1

@@ -37,3 +37,5 @@ Adaptador de LAN inal mbrica Wi-Fi:
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::229a:7dff:fea6:7f67%18
                                        192.168.0.1
+Ignacio Claverino 13:12
+ifconfig

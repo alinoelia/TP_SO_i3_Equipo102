@@ -25,3 +25,7 @@ ipconfig >> beta.txt
 git commit -m "Alfa actualizo los datos"
 git status
 git push 
+Responde Gamma:
+d) si siempre y cuando hagamos git pull para que quede actualizado.
+e) si se presentaron problemas precisamente en el archivo beta.txt ya que los integrantes hacían diversas modificaciones y para resolver dichos conflictos había que eliminar estos símbolos <<<<<<<, ======= y >>>>>>>
+f) git pull, git checkout un echo para poner mi nombre y apellido y la hora 

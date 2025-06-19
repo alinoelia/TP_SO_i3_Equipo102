@@ -1,0 +1,17 @@
+Apellido y nombre de los alumnos que participaron de la interacción:
+- Alizon Gamboa (BETA)
+- Tiziano Capparelli (ALFA)
+- Ignacio Claverino (GAMMA)
+
+Respuestas
+a- ¿Cómo queda el máster después de estos cambios?
+El 'main' (master) quedó actualizado con los archivos modificados por BETA, GAMMA y ALFA, incluyendo el archivo 'beta.txt' con los datos de todos los integrantes, además de los archivos 'CPUBeta.txt', 'CPUAlfa.txt' y 'CPUGamma.txt'.
+b- ¿Beta pudo ver todos los cambios que se realizaron?
+Sí, una vez realizados los 'git pull' y 'git fetch' de las ramas, y después de hacer el merge a 'main',pude ver todos los cambios hechos por GAMMA y ALFA.
+c- ¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+git checkout main
+git pull origin main
+git merge Claverino (rama creada por Gamma) y git merge Gamboa (rama creada por Beta) -> resolvi los conflictos
+git add .
+git commit -m 
+git push origin main

@@ -15,3 +15,13 @@ git merge Claverino (rama creada por Gamma) y git merge Gamboa (rama creada por 
 git add .
 git commit -m 
 git push origin main
+
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+git pull
+echo "Tiziano Capparelli" >> beta.txt
+date >>beta.txt
+ipconfig >> beta.txt
+git commit -m "Alfa actualizo los datos"
+git status
+git push 
